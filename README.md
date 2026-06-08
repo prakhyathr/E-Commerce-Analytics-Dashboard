@@ -76,7 +76,7 @@ Ecommerce-Analytics/
 │
 ├── reports/
 │   ├── business_insights_report.md    # 15 consulting-style strategic insights
-│   └── career_optimization.md         # Resume, LinkedIn, & Interview Q&As
+│   
 │
 ├── dashboard_screenshots/              # Generated plot files (PNG)
 │   ├── customer_segmentation.png
