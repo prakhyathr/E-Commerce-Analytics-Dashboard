@@ -158,12 +158,3 @@ The dashboard utilizes a premium **dark theme** and is divided into four functio
 2. **Customer Loyalty**: Customer segmentation (RFM), purchase frequency distributions, and a ranked list of VIP customers by CLV.
 3. **Product Analytics**: Best-selling items, category revenue ranks, and freight-to-price scatter plot analysis.
 4. **Logistics & Satisfaction**: Delivery days trend, regional late rates, and ratings-to-delay correlation bar charts.
-
----
-
-## 9. Career Inquiries & Interview Readiness
-
-This repository includes career-ready assets to prepare for Data Analyst interviews:
-- **ATS Resume Bullets**: Optimized keywords highlighting ETL, SQL modeling, and dashboard creation.
-- **20 Interview Questions**: 10 technical (SQL/Python) and 10 behavioral (STAR format) questions based on this dataset.
-- Refer to [career_optimization.md](Ecommerce-Analytics/reports/career_optimization.md) for full descriptions and answers.
